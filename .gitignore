@@ -1,0 +1,4 @@
+#patterns for things for git to ignore
+#ignore all files ending in .dat and in the results directory
+*.dat
+results/
